@@ -1,0 +1,31 @@
+{
+  "name": "Canvas Game",
+  "ogmoVersion": "3.4.0",
+  "levelPaths": ["."],
+  "backgroundColor": "#898989ff",
+  "gridColor": "#3c4049cc",
+  "anglesRadians": true,
+  "directoryDepth": 5,
+  "layerGridDefaultSize": {"x": 32, "y": 32},
+  "levelDefaultSize": {"x": 320, "y": 240},
+  "levelMinSize": {"x": 480, "y": 360},
+  "levelMaxSize": {"x": 4800, "y": 3600},
+  "levelValues": [],
+  "defaultExportMode": ".json",
+  "compactExport": false,
+  "externalScript": "",
+  "playCommand": "",
+  "entityTags": [],
+  "layers": [
+    {
+      "definition": "grid",
+      "name": "grid_layer",
+      "gridSize": {"x": 32, "y": 32},
+      "exportID": "83397346",
+      "arrayMode": 0,
+      "legend": {"0": "#00000000", "1": "#0066d0ff", "2": "#f03535ff", "3": "#ffffffff"}
+    }
+  ],
+  "entities": [],
+  "tilesets": []
+}
